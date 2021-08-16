@@ -9,7 +9,7 @@ package blockchain;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 
-public class Blockaa {
+public class Block {
     
     public Block(long timestamp) {
     }
